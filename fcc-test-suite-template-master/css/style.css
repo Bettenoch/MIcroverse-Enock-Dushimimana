@@ -1,0 +1,33 @@
+body {
+    background-color: #00FA9A;
+    margin: 20%;
+}
+
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+
+
+#img-div {
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: block;
+    filter: grayscale(100%);
+    width: 100%;
+ }
+ 
+ #image{
+   
+   justify-content: center;
+   align-items: center;
+   padding-top: 10px;
+   height: auto;
+   max-width: 330px;
+   
+ }
+
