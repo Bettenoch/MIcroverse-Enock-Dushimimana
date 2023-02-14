@@ -1,5 +1,5 @@
 body {
-    background-color: #00FA9A;
+    background-color: #2d302f;
     margin: 20%;
 }
 
@@ -10,7 +10,7 @@ body {
     font-size: 7vh;
 }
 
-
+ 
 #img-div {
     
     justify-content: center;
@@ -29,5 +29,10 @@ body {
    height: auto;
    max-width: 330px;
    
- }
-
+  } 
+  #image img {
+    padding-top: 10px;
+    height: auto;
+  
+ 
+  }
